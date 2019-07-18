@@ -1,0 +1,5 @@
+{
+    "id": "slK1s6f48oSx",
+    "name": "Semestre II 2019",
+    "courses": [{"color":"#673ab7","name":"Calculo","times":[{"day":"j","init":"08:00","end":"09:50"},{"day":"l","init":"09:00","end":"11:50"}]},{"color":"#2d7545","name":"Estadistica","times":[{"day":"v","init":"08:00","end":"11:50"}]},{"color":"#ff9800","name":"Progra II","times":[{"day":"s","init":"08:00","end":"11:50"},{"day":"l","init":"17:00","end":"20:50"}]},{"color":"#e91e63","name":"Intro Sistemas","times":[{"day":"k","init":"09:00","end":"11:50"},{"day":"j","init":"10:00","end":"11:50"}]},{"color":"#4caf50","name":"Algoritmos","times":[{"day":"k","init":"17:00","end":"20:50"},{"day":"j","init":"17:00","end":"20:50"}]}]
+}
